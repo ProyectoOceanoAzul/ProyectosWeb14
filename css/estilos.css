@@ -489,6 +489,8 @@ span.donacion a:hover{
 
 
 
+
+
     /*contenedor__about*/
     section.contenedor__about{
         padding: 70px 0 15px 0;
@@ -558,6 +560,9 @@ span.donacion a:hover{
     }
 
 
+    div.card__dark:hover{
+        box-shadow: 5px 5px 20px var(--colorEstilo2);
+    }
 
     div.cards__services div.card__dark img{
         width: 20%;
@@ -566,6 +571,20 @@ span.donacion a:hover{
     div.cards__services div.card__dark p{
         padding-top: 0;
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
     /******************************************************/
@@ -632,6 +651,11 @@ span.donacion a:hover{
         width: 100%;
     }
 
+
+
+    div.card__dark:hover{
+        box-shadow: 5px 5px 20px var(--colorEstilo2);
+    }
 
 
     div.cards__services div.card__dark img{
@@ -709,6 +733,9 @@ span.donacion a:hover{
     }
 
 
+    div.card__dark:hover{
+        box-shadow: 5px 5px 20px var(--colorEstilo2);
+    }
 
     div.cards__services div.card__dark img{
         width: 20%;
@@ -717,8 +744,6 @@ span.donacion a:hover{
     div.cards__services div.card__dark p{
         padding-top: 0;
     }
-
-
 
 
 }
@@ -779,6 +804,9 @@ span.donacion a:hover{
     }
 
 
+     div.card__dark:hover{
+        box-shadow: 5px 5px 20px var(--colorEstilo2);
+    }
 
     div.cards__services div.card__dark img{
         width: 20%;
@@ -836,6 +864,10 @@ span.donacion a:hover{
         width: 100%;
     }
 
+    div.card__dark:hover{
+        box-shadow: 5px 5px 20px var(--colorEstilo2);
+    }
+
 
 
     div.cards__services div.card__dark img{
@@ -879,6 +911,10 @@ span.donacion a:hover{
         width: 100%;
     }
 
+
+    div.card__dark:hover{
+        box-shadow: 5px 5px 20px var(--colorEstilo2);
+    }
 
 
     div.cards__services div.card__dark img{
@@ -925,6 +961,10 @@ span.donacion a:hover{
     }
 
 
+    div.card__dark:hover{
+        box-shadow: 5px 5px 20px var(--colorEstilo2);
+    }
+
 
     div.cards__services div.card__dark img{
         width: 20%;
@@ -935,6 +975,7 @@ span.donacion a:hover{
     }
 
 }
+
 
 
 
