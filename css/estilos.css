@@ -204,15 +204,16 @@ div.card{
 }
 
 
-div.card:hover{
+div.card__light{
+    background-color: var(--colorEstilo3);
+}
+
+div.card__light:hover{
     box-shadow: 5px 5px 20px var(--colorEstilo3);
 }
 
 
 
-div.card__light{
-    background-color: var(--colorEstilo3);
-}
 
 
 div.card img{
@@ -286,6 +287,15 @@ div.cards__services div.card__dark{
     padding-left: 30px;
     padding-right: 30px;
 }
+
+
+div.card__dark:hover{
+    box-shadow: 5px 5px 20px var(--colorEstilo2);
+}
+
+
+
+
 
 div.cards__services div.card p{
     padding-top: 20px;
@@ -925,23 +935,6 @@ span.donacion a:hover{
     }
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
